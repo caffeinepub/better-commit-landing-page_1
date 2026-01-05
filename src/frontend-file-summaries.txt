@@ -1,9 +1,9 @@
 {
   "frontend/src/App.tsx": "Main application component that composes the Header, Hero, and Footer components into a full-page layout.",
-  "frontend/src/components/Header.tsx": "Fixed header component with the Better Commit logo and branding.",
-  "frontend/src/components/Hero.tsx": "Hero section component featuring the centered \"Better Commit\" heading with gradient effects and decorative elements.",
-  "frontend/src/components/Footer.tsx": "Footer component with copyright notice and caffeine.ai attribution with a heart icon.",
-  "frontend/src/index.css": "Global styles with a modern purple-blue OKLCH color system optimized for both light and dark modes.",
+  "frontend/src/components/Header.tsx": "Fixed header component with the Better Commit logo and branding, styled with white text and transparent backdrop for the red background.",
+  "frontend/src/components/Hero.tsx": "Hero section component featuring the centered \"Better Commit\" heading with white gradient effects and decorative elements optimized for the red background.",
+  "frontend/src/components/Footer.tsx": "Footer component with copyright notice and caffeine.ai attribution with a white heart icon, styled for optimal contrast against the red background.",
+  "frontend/src/index.css": "Global styles with a red OKLCH color system (hue 25) optimized for both light and dark modes, featuring a solid red background with high-contrast white text for readability.",
   "frontend/tailwind.config.js": "Tailwind configuration with Inter font family and custom design tokens.",
   "frontend/src/hooks/useQueries.ts": "Empty file placeholder as no backend queries are needed for this static landing page."
 }
